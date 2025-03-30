@@ -1,0 +1,6 @@
+Average: 56.35294117647059
+Standard Deviation: 27.856652339877005
+Maximum: 99.0
+Variance: 775.993079584775
+Minimum: 1.0
+Sum: 958.0
