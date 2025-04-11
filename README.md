@@ -91,3 +91,11 @@ Then, depending on your results, create a story around those numbers and write a
 Plot your data, do some research as to what calculations are worth developing and reporting on.
 
 There are more ideas as to how to code the project here: https://data-flair.training/blogs/covid-19-spread-analysis-python/
+
+### Week 10
+
+- **Project 10: File Handling and Exception Handling** - [Week 10](https://github.com/lindakovacs/python_cs1/tree/main/week10)
+
+- Design a class representing a basic bank account. Implement methods for deposit, withdrawal, and balance inquiry.
+
+- Go back to the pong game. Implement the code to keep the score of the game and display it.
