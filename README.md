@@ -99,3 +99,11 @@ There are more ideas as to how to code the project here: https://data-flair.trai
 - Design a class representing a basic bank account. Implement methods for deposit, withdrawal, and balance inquiry.
 
 - Go back to the pong game. Implement the code to keep the score of the game and display it.
+
+### Week 11
+
+- **Project 11: Inheritance** - [Week 11](https://github.com/lindakovacs/python_cs1/tree/main/week11)
+
+- Extend the bank account program from the previous week to include multiple account types (e.g., savings, checking) using inheritance.
+
+- Go back to the pong game. You have implemented the score keeping mechanism. Now, write code to stop the game once a player gets to 7 points. Print a message saying "XX Player Wins!!"
