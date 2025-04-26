@@ -107,3 +107,11 @@ There are more ideas as to how to code the project here: https://data-flair.trai
 - Extend the bank account program from the previous week to include multiple account types (e.g., savings, checking) using inheritance.
 
 - Go back to the pong game. You have implemented the score keeping mechanism. Now, write code to stop the game once a player gets to 7 points. Print a message saying "XX Player Wins!!"
+
+### Week 12
+
+- **Project 12: Libraries** - [Week 12](https://github.com/lindakovacs/python_cs1/tree/main/week12)
+
+- Utilize the math library to create a program that calculates the area and of different geometric shapes. The user should be able to select a shape and pass the corresponding measures.
+
+- Back to the pong game. You have implemented the score keeping mechanism and now once a player gets to 7 points the game is over. Write code to enter the players names and upload a picture of the players.
