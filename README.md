@@ -115,3 +115,11 @@ There are more ideas as to how to code the project here: https://data-flair.trai
 - Utilize the math library to create a program that calculates the area and of different geometric shapes. The user should be able to select a shape and pass the corresponding measures.
 
 - Back to the pong game. You have implemented the score keeping mechanism and now once a player gets to 7 points the game is over. Write code to enter the players names and upload a picture of the players.
+
+### Week 13
+
+- **Project 13: Introduction to Data Analysis** - [Week 13](https://github.com/lindakovacs/python_cs1/tree/main/week13)
+
+- Part 1: Use the dataset provided for the midterm assignment. Use NumPy to analyze the dataset and perform an additional analysis on the data. Plot your results. Write a report on the story behind the data.
+
+- Finish the pong game. Showing the results of a game with the names and pictures of the players. Make sure to include ability input the names of the players, Game over message and pictures of the players.
